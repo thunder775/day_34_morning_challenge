@@ -70,5 +70,7 @@ main() {
   print(isAnagram('mood', 'domo'));
   print(isAnagram('met', 'meet'));
   print(isAnagram('balloon', 'balllooon'));
+  print(minRemoval('mississippi', 'rope'));
+
 //  print(hammingDistance('listen', 'silent'));
 }
